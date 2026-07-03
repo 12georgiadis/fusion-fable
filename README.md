@@ -119,3 +119,5 @@ low-stakes questions, a single direct answer is the right call.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+By [Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com).
